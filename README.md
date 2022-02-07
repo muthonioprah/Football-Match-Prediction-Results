@@ -1,2 +1,14 @@
 # Football-Match-Prediction-Results
-A prediction result of a game between two teams based on who's home and who's away, and on whether or not the game is friendly
+
+As a football analyst in a company - Mchezopesa Ltd I have been tasked to accomplish;
+the task of predicting the result of a game between two teams based on who's home and who's away, and on whether or not the game is friendly
+To find out what is the influence of rank, tournament type, and number of goals among other variables on the match outcome for a home team in international football is.
+
+
+# **Tools Used**
+Google Colab Notebook.
+Pandas and Numpy Python libraries for data exploration and manipulation
+Data cleaning tools
+Exploratory data analysis techniques
+Skicit Learn Libraries for Machine Learning
+
